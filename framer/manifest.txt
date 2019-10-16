@@ -206,6 +206,7 @@ design/images/yu850KXGPltYEeAr6BCcu2MFo.png
 design/images/yniniRKbiu7xTaJBSrJWWaDKz34.jpg
 design/images/xAsmztY8QulHIZgPE1rczoLfEnA.png
 design/images/vtgVHwZG1ONpIAP5jeupZWk2A.png
+design/images/uygq4XhyMkQWFdICjFHYmxyJ6bc.png
 design/images/tCTpViNqpi5J5OLUrQjXGSEDTY.jpg
 design/images/r6mdCzNOB3H6d6rUMbwyjFDyo.jpg
 design/images/qCeHxuQ119zlHbW3xs3Lkes9A.png
@@ -248,15 +249,10 @@ design/images/AM6AnOf9AcTc4UaC70bJAafDDc.png
 design/images/9Uy8zLXZeaR7stk0H8FAhumtSQ.png
 design/images/7RAEiSUQ5vrfTly1fqrqeT9tJY.jpg
 design/images/5cJylZbIyhSr6O8QEaX1mi1Y.png
-design/images/51ffcEohrLL._AC_SY200_.jpg
-design/images/51VAZCBMVCL._AC_SY200_.jpg
-design/images/512aYK20AnL._AC_SY200_.jpg
 design/images/4J6GW6PUyrtoavn94O5qtyKuE.png
-design/images/41dEdYoBMtL._AC_SY200_.jpg
 design/images/2lT7i3wIUPc7FCm90c66t0zVJIo.png
 design/images/2a8RMQeSRTkZACdiqLJdrpWe0.png
 design/images/1OmqVQUoWPdhgKTXNZRcZMOYcfE.jpg
-design/images/0ccsWjwLsP3CP72qBxGqjXEA7g.png
 design/assets/Comp 1 (Converted).mp4
 build/vendors.js
 build/framer.js
