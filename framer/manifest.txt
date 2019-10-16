@@ -44,6 +44,29 @@ node_modules/@framer/steveruizok.undraw/code/canvas.tsx
 node_modules/@framer/steveruizok.undraw/code/UnDraw.tsx
 node_modules/@framer/steveruizok.undraw/code/Examples.tsx
 node_modules/@framer/steveruizok.undraw/README.md
+node_modules/@framer/steveruizok.fontloader/tsconfig.json
+node_modules/@framer/steveruizok.fontloader/package.json
+node_modules/@framer/steveruizok.fontloader/metadata/icon.png
+node_modules/@framer/steveruizok.fontloader/metadata/artwork.png
+node_modules/@framer/steveruizok.fontloader/index.html
+node_modules/@framer/steveruizok.fontloader/images/cursors/touch@2x.png
+node_modules/@framer/steveruizok.fontloader/images/cursors/touch.png
+node_modules/@framer/steveruizok.fontloader/images/cursors/touch-active@2x.png
+node_modules/@framer/steveruizok.fontloader/images/cursors/touch-active.png
+node_modules/@framer/steveruizok.fontloader/dist/index.js
+node_modules/@framer/steveruizok.fontloader/design/document.json
+node_modules/@framer/steveruizok.fontloader/design/assets/Px437_IBM_VGA8.ttf
+node_modules/@framer/steveruizok.fontloader/design/assets/NotoSerif-Italic.ttf
+node_modules/@framer/steveruizok.fontloader/code/canvas.tsx
+node_modules/@framer/steveruizok.fontloader/code/LocalFontLoader.tsx
+node_modules/@framer/steveruizok.fontloader/build/style.css
+node_modules/@framer/steveruizok.fontloader/build/standalone.js
+node_modules/@framer/steveruizok.fontloader/build/react.development.js
+node_modules/@framer/steveruizok.fontloader/build/react-dom.development.js
+node_modules/@framer/steveruizok.fontloader/build/index.js
+node_modules/@framer/steveruizok.fontloader/build/framer.js
+node_modules/@framer/steveruizok.fontloader/build/Draft.css
+node_modules/@framer/steveruizok.fontloader/README.md
 node_modules/@framer/krijn.video-player/tsconfig.json
 node_modules/@framer/krijn.video-player/package.json
 node_modules/@framer/krijn.video-player/metadata/icon.png
@@ -253,6 +276,7 @@ design/images/4J6GW6PUyrtoavn94O5qtyKuE.png
 design/images/2lT7i3wIUPc7FCm90c66t0zVJIo.png
 design/images/2a8RMQeSRTkZACdiqLJdrpWe0.png
 design/images/1OmqVQUoWPdhgKTXNZRcZMOYcfE.jpg
+design/assets/SF-Pro-Text-Heavy.otf
 design/assets/Comp 1 (Converted).mp4
 build/vendors.js
 build/framer.js
