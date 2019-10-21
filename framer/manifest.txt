@@ -262,6 +262,8 @@ design/images/Ksg8IsyaCpAfacxKFoPKPvogDLs.png
 design/images/JPewXT8VFJzr6WN33Iyvpaizz30.png
 design/images/FozuTj6DuhgygXiQa0VtkOQyuX4.png
 design/images/EQi8aeuDieuJsZpun2zZGtQ.png
+design/images/EG4owuEUYAAF1vN.jpg
+design/images/EG4owuEUYAAF1vN-1024x725.jpg
 design/images/D3fWGnMTSvp0ZgJ3wcgDqTlUSQ.png
 design/images/CPCNY97imoHIa1oVihB63qR3E2Y.png
 design/images/CEWnwQmX4CSDZW2lApdG9jEGk.jpg
@@ -276,6 +278,7 @@ design/images/4J6GW6PUyrtoavn94O5qtyKuE.png
 design/images/2lT7i3wIUPc7FCm90c66t0zVJIo.png
 design/images/2a8RMQeSRTkZACdiqLJdrpWe0.png
 design/images/1OmqVQUoWPdhgKTXNZRcZMOYcfE.jpg
+design/images/11_o.jpg
 design/assets/SF-Pro-Text-Heavy.otf
 design/assets/Comp 1 (Converted).mp4
 build/vendors.js
