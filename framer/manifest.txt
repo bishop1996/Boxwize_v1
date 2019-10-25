@@ -33,6 +33,14 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+node_modules/@framer/svensz.giphy/tsconfig.json
+node_modules/@framer/svensz.giphy/package.json
+node_modules/@framer/svensz.giphy/metadata/icon.png
+node_modules/@framer/svensz.giphy/metadata/artwork.png
+node_modules/@framer/svensz.giphy/design/document.json
+node_modules/@framer/svensz.giphy/code/Giphy.tsx
+node_modules/@framer/svensz.giphy/build/index.js
+node_modules/@framer/svensz.giphy/README.md
 node_modules/@framer/steveruizok.undraw/tsconfig.json
 node_modules/@framer/steveruizok.undraw/package.json
 node_modules/@framer/steveruizok.undraw/package-lock.json
@@ -233,6 +241,7 @@ design/images/uygq4XhyMkQWFdICjFHYmxyJ6bc.png
 design/images/tCTpViNqpi5J5OLUrQjXGSEDTY.jpg
 design/images/r6mdCzNOB3H6d6rUMbwyjFDyo.jpg
 design/images/qCeHxuQ119zlHbW3xs3Lkes9A.png
+design/images/pjuJGDundTFMIMcciwrbI8OgGE.png
 design/images/p3plRhEvSwQKVhvrvHyydEC17GA.png
 design/images/n6v85LoSW8rUSrGiLMIxtevhVWA.jpg
 design/images/lw5jf313duhHjSa5nRu3MtsHjT0.png
@@ -243,27 +252,31 @@ design/images/ifthDzOxlyHOKQCZ6RfzNq6adso.png
 design/images/h5nIFlw2l3lRK2P8lSC6zq7Q.jpg
 design/images/fRXIuPOnJ13JZTh5XPgcfEAYc.png
 design/images/eWhUh2Okbf5vX5etMJNHIDqcJxw.png
+design/images/dr-bunsen-honeydew-and-beakerx750.jpg
 design/images/cD4VlMaT8tbDMKerEdpUaZ53ZA.png
 design/images/bzj6c36vMi34vBfc8oBLgT4.jpg
 design/images/bJIzXnP5V0lLTkFKiW6rOj4WyHk.png
 design/images/alA3JSdOn4C6VWKhDajrDPVEgC0.png
 design/images/ZlCzsOKIBoLAGPlLkiKUumCkR0.png
 design/images/WwVJJUXeb8q4DbJK8zxP5xnGXI.jpg
+design/images/WdYUv6Al6qlykdtBkxfx5wPDLM.png
 design/images/WAJ0PyVMg73v9pLmd7yv0l3zmb8.jpg
 design/images/Vo1Kc3fQPLMve0a7sTAp8s2A.jpg
 design/images/VGVVoWjplQh8k9dRadUmi1dwk.png
+design/images/V1FbDQR4utm5fPtNLPdAtoiHp4.png
 design/images/U0OomWZzAlTXvJWA6ZiHHIuNho.png
 design/images/TTo4HyVAwez99TcXGC2CP5GtfFs.png
 design/images/SHElbwPANhqBcGJqdvaa2RBuok.png
 design/images/RIrDuBYcwa4pV7HzJGH4tWKrRM.png
 design/images/PZVwgnszNtPT9sF1vbJnDCI4c10.jpg
 design/images/N16JwCEGuBvU0gMNc47jTnHlqg.jpg
+design/images/MCVUXLpSzLf6djGXikEXNQbM3k8.png
 design/images/Ksg8IsyaCpAfacxKFoPKPvogDLs.png
 design/images/JPewXT8VFJzr6WN33Iyvpaizz30.png
+design/images/IpqFuQ.jpg
 design/images/FozuTj6DuhgygXiQa0VtkOQyuX4.png
 design/images/EQi8aeuDieuJsZpun2zZGtQ.png
-design/images/EG4owuEUYAAF1vN.jpg
-design/images/EG4owuEUYAAF1vN-1024x725.jpg
+design/images/D64cZO2xKy4PD94EbUt9La9A65c.png
 design/images/D3fWGnMTSvp0ZgJ3wcgDqTlUSQ.png
 design/images/CPCNY97imoHIa1oVihB63qR3E2Y.png
 design/images/CEWnwQmX4CSDZW2lApdG9jEGk.jpg
@@ -277,8 +290,9 @@ design/images/5cJylZbIyhSr6O8QEaX1mi1Y.png
 design/images/4J6GW6PUyrtoavn94O5qtyKuE.png
 design/images/2lT7i3wIUPc7FCm90c66t0zVJIo.png
 design/images/2a8RMQeSRTkZACdiqLJdrpWe0.png
+design/images/1vWxrmHkjaAOVDIOJqGj643GV0E.png
 design/images/1OmqVQUoWPdhgKTXNZRcZMOYcfE.jpg
-design/images/11_o.jpg
+design/assets/shopping-cart.svg@3x (Converted).mp4
 design/assets/SF-Pro-Text-Heavy.otf
 design/assets/Comp 1 (Converted).mp4
 build/vendors.js
