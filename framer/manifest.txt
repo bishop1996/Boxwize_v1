@@ -1,3 +1,4 @@
+package-lock.json
 node_modules/framer/resource.d.ts
 node_modules/framer/package.json
 node_modules/framer/node_modules/react/package.json
